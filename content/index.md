@@ -16,4 +16,4 @@ No olvides visitar mi página web personal para solicitar mis servicios, mi perf
 
 ---
 
-Hecho por **russ0ski** · [Portfolio](https://russ0ski.github.io) · [LinkedIn](https://tryhackme.com/p/11h30) · [GitHub](https://github.com/russ0ski) · [YouTube](https://www.youtube.com/@russo.trickz) · [Instagram](https://www.instagram.com/russo.tricks/)
+Hecho por **russ0ski** · [Portfolio](https://russ0ski.github.io) · [LinkedIn](https://tryhackme.com/p/11h30) · [GitHub](https://github.com/russ0ski) · [YouTube](https://www.youtube.com/@russo.tricks)
