@@ -6,7 +6,8 @@ Bienvenid@ a mis apuntes de la **OSCP**. Aquí recopilo mi resumen de cada módu
 
 Aclarar que aún estoy modificando ligeras partes del contenido para dejarlo lo más pulido posible, pero en general ya estaría completo todo aquello que se necesita aprender para aprobar el examen con soltura.
 
-No olvides visitar mi Portfolio para solicitar mis servicios, mi LinkedIn para saber más de mi trayectoria, mi GitHub para obtener código gratis y mi YouTube para aprender a resolver CTFs!
+No olvides visitar mi Portfolio para solicitar mis servicios, mi LinkedIn para saber más de mi trayectoria, mi
+GitHub para obtener código gratis y mi YouTube para aprender a resolver CTFs!
 
 > [!info] Cómo moverte
 > Usa el **Explorador** de la izquierda o el **buscador** de arriba para navegar por los módulos. En el **Graph View** (derecha) puedes ver cómo se conectan las notas entre sí.
