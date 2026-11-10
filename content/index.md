@@ -2,7 +2,7 @@
 title: OSCP Cheatsheet
 ---
 
-Bienvenid@ a mis apuntes de la **Offensive Security Certified Professional**. Aquí recopilo el resumen de cada módulo y los comandos más importantes que fui anotando durante mi preparación. De mí para toda la comunidad.
+Bienvenid@ a mis apuntes de la **OSCP**. Aquí recopilo mi resumen de cada módulo del curso así como los comandos más importantes que fui anotando durante mi preparación. De mí para toda la comunidad.
 
 Aclarar que aún estoy modificando ligeras partes del contenido para dejarlo lo más pulido posible, pero en general ya estaría completo todo aquello que se necesita aprender para aprobar el examen con soltura.
 
